@@ -77,15 +77,14 @@ body {
   padding-top: 5%;
 }
 
-.contact a{
+body a{
   color: #606060;
+}
+
+body a:active{
+  background-color: black;
 }
 
 footer{
 	color: #606060;
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-
 }
