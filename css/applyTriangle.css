@@ -77,6 +77,11 @@ body {
   padding-top: 5%;
 }
 
+.bio{
+  color: black;
+  background-color: rgb(230, 230, 230);
+}
+
 body a{
   color: #606060;
 }
