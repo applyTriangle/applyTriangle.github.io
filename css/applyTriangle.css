@@ -14,9 +14,8 @@ body {
   width: 90%;
 }
 
-.site-heading .img{
-  height: auto;
-  width: auto;
+.site-heading img{
+  width: 100%;
 }
 
 .bg_pic{
