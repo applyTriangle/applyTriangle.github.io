@@ -21,14 +21,8 @@ body {
   max-height: 100px;
 }
 
-.nav_right{
-  position: absolute;
-  right: 0px;
-	font-size: 15px;
-}
-
 .navbar li{
-  padding-right: 3rem;
+  padding-right: 2.5rem;
   padding-left: 3rem;
 }
 
