@@ -90,6 +90,14 @@ body {
   background-color: rgb(230, 230, 230);
 }
 
+.bio img{
+  height: 100%;
+}
+
+.video iframe{
+  width: 100%;
+}
+
 body a{
   color: #606060;
 }
