@@ -8,6 +8,10 @@ body {
     width: 100%;
 }
 
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
 .site-heading {
   margin-top: 3rem;
   margin-left: 7%;
