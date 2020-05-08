@@ -15,7 +15,8 @@ body {
 }
 
 .site-heading .img{
-  width: 50%;
+  height: auto;
+  width: auto;
 }
 
 .bg_pic{
