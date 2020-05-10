@@ -13,7 +13,7 @@ body {
 }
 
 .site-heading {
-  margin-top: 3rem;
+  margin-top: 2rem;
   margin-left: 7%;
   margin-right: 7%;
   line-height: 1;
@@ -80,22 +80,39 @@ body {
 	margin-right: 30px;
 }
 
+.col-lg img{
+  height: 100%;
+  width: auto;
+  text-align: center;
+}
+
 .contact{
   padding-left: 20%;
   padding-top: 5%;
 }
 
-.bio{
-  color: black;
-  background-color: rgb(230, 230, 230);
+.contact a{
+  color: white;
 }
 
-.bio img{
+.paper{
+  color: black;
+  background-color: rgba(255, 255, 255, 0.6);
+}
+
+/* temp */
+h2 span{
+  color: black;
+  background-color: rgba(255, 255, 255, 0.6);
+}
+/*      */
+
+.paper img{
   width: 100%;
 }
 
-.bio p{
-  padding-top: 2rem;
+.paper p{
+  padding-top: 1rem;
 }
 
 .video iframe{
@@ -113,3 +130,23 @@ body a:active{
 footer{
 	color: #606060;
 }
+
+
+.bio_content{
+  background-image: url("../Image/page_bg.jpg");
+  background-size: contain;
+  width: 100%;
+  height: 35vw;
+  overflow-y: scroll;
+}
+
+
+.events_content{
+  background-image: url("../Image/events_bg.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  width: 100%;
+  height: 31vw;
+}
+
