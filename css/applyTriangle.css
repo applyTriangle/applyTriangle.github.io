@@ -6,7 +6,13 @@ body {
   	font-family: 'Montserrat', sans-serif;
     color: white;
     width: 100%;
-    height: 40em;
+}
+
+footer{
+  color: #606060;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
 
 .navbar .navbar-collapse {
@@ -121,16 +127,11 @@ body a:active{
   background-color: black;
 }
 
-footer{
-	color: #606060;
-}
-
-
 .bio_content{
   background-image: url("../Image/page_bg.jpg");
   background-size: contain;
   width: 100%;
-  height: 40em;
+  height: 38em;
   overflow-y: scroll;
 }
 
