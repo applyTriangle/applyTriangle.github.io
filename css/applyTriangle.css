@@ -8,7 +8,7 @@ body {
     height:100%;
 }
 
-header{
+.bio_top{
   background-color:black;
   height: 20vh;
   width: auto;
@@ -141,12 +141,17 @@ body a:active{
   overflow-y: scroll;
 }
 
+  /*
 .events_content{
+
   background-image: url("../Image/events_bg.jpg");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
+
   width: 100%;
-  height: 70vh;
+  height: 65vh;
 }
+  */
+
 
