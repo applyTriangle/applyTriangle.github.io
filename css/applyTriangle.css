@@ -143,8 +143,8 @@ body a:active {
 
 .col-lg img {
   width: 100%;
-  aspect-ratio: 1 / 1;  /* 正方形比例 */
-  object-fit: cover;    /* 自动裁切居中，不会被拉伸 */
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
   display: block;
 }
 
