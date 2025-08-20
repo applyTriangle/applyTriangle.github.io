@@ -141,6 +141,13 @@ body a:active {
   overflow-y: scroll;
 }
 
+.col-lg img {
+  width: 100%;
+  aspect-ratio: 1 / 1;  /* 正方形比例 */
+  object-fit: cover;    /* 自动裁切居中，不会被拉伸 */
+  display: block;
+}
+
 /*
 .events_content{
 
